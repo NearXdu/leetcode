@@ -1,4 +1,6 @@
 # !/bin/bash
+
+
 if [ $# != 2 ] ; then 
 echo "USAGE: $0 [start index] [end index]" 
 exit 1; 
